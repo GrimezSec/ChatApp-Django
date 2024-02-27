@@ -1,6 +1,6 @@
 # ChatApp-Django
 
-This is a sample Django Web Framework project idea from [this YouTube Video](https://www.youtube.com/watch?v=hbx39adciac).
+This is a sample Django Web Framework project idea from [this YouTube Video](https://www.youtube.com/watch?v=IpAk1Eu52GU).
 
 
 This is a simple chat application built using Django framework.
